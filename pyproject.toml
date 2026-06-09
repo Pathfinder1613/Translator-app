@@ -1,0 +1,10 @@
+[project]
+name = "translator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "deep-translator>=1.11.4",
+    "pyttsx3>=2.99",
+]
